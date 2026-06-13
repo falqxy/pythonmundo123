@@ -1,0 +1,5 @@
+nome = input('Digite seu nome: ').strip()
+dividido = nome.split()
+print ('Seu nome é:', nome)
+print ('O primeiro nome é:', dividido[0])
+print ('O último nome é:', dividido[-1])
