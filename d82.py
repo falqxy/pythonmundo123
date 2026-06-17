@@ -26,3 +26,5 @@ while True:
 print(f'A lista é {lista}')
 print(f'Seus números pares são {par}')
 print(f'Seus números ímpares são {impar}')
+
+#certo
