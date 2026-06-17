@@ -138,4 +138,4 @@ Cada arquivo tem comentários meus mostrando onde acertei de primeira, onde prec
 
 ## Sobre os comentários no código
 
-Bati em vários desses desafios sem saber a solução de cara — isso fica registrado nos próprios arquivos: trechos comentados mostram tentativas anteriores, lugares onde usei a resolução oficial do curso pra comparar com a minha, e pontos onde pedi ajuda do Claude (principalmente em laços de repetição e listas de listas, que foi onde mais travei). Mantive isso de propósito: é mais útil pra mim revisar depois sabendo onde realmente entendi e onde só copiei.
+Bati em vários desses desafios sem saber a solução de cara — isso fica registrado nos próprios arquivos: trechos comentados mostram tentativas anteriores, lugares onde usei a resolução oficial do curso pra comparar com a minha, e pontos onde pedi ajuda do Claude (principalmente em laços de repetição e listas de listas, que foi onde mais travei). Mantive isso de propósito: é mais útil pra mim revisar depois sabendo onde realmente entendi e onde só copiei.w
