@@ -108,7 +108,7 @@ Cada arquivo tem comentários meus mostrando onde acertei de primeira, onde prec
 | [`d70.py`](Mundo%202/d70.py) | Loja: total de compras, produtos caros, produto mais barato |
 | [`d71.py`](Mundo%202/d71.py) | Caixa eletrônico: cálculo de cédulas (50/20/10/1) para um valor de saque |
 
-## Mundo 3 — Listas, tuplas e matrizes
+## Mundo 3 — Listas, tuplas, dicionários, funções e arquivos
 
 | Arquivo | Conteúdo |
 |---|---|
@@ -116,7 +116,7 @@ Cada arquivo tem comentários meus mostrando onde acertei de primeira, onde prec
 | [`aula016a.py`](Mundo%203/aula016a.py) | Tuplas são imutáveis — slicing e indexação |
 | [`aula017.py`](Mundo%203/aula017.py) | Listas: `append`, `insert`, `remove`, `sort`, cópia de listas com `[:]` vs referência |
 | [`aula018b`](Mundo%203/aula018b) | Lista de listas (registro de pessoas com nome + idade) |
-| [`aula19.py`](Mundo%203/aula19.py) | Anotação rápida sobre dicionários (não desenvolvido) |
+| [`aula19.py`](Mundo%203/aula19.py) | Anotação rápida sobre dicionários |
 | [`d72.py`](Mundo%203/d72.py) | Números por extenso de 0 a 20 usando tupla como "dicionário" |
 | [`d73.py`](Mundo%203/d73.py) | Manipulação de tupla com times do Brasileirão (slicing, `sorted`, `index`) |
 | [`d74.py`](Mundo%203/d74.py) | Tupla de 5 números aleatórios, com `min()`/`max()` |
@@ -135,6 +135,33 @@ Cada arquivo tem comentários meus mostrando onde acertei de primeira, onde prec
 | [`d87.py`](Mundo%203/d87.py) | Matriz 3x3: soma de pares, soma da 3ª coluna, maior valor da 2ª linha |
 | [`d88.py`](Mundo%203/d88.py) | Gerador de jogos da Mega-Sena (números aleatórios sem repetição) |
 | [`d89.py`](Mundo%203/d89.py) | Boletim de alunos: cadastro, listagem em tabela e consulta por código |
+| [`d90.py`](Mundo%203/d90.py) | Dicionário de aluno: nome, média e situação |
+| [`d91.py`](Mundo%203/d91.py) | Simulação de dados com dicionário de jogadores e `randint` |
+| [`d92.py`](Mundo%203/d92.py) | Dicionário com nome e ano de nascimento, calculando idade com `datetime` |
+| [`d93.py`](Mundo%203/d93.py) | Registro de gols por partida com lista de dicionários |
+| [`d94.py`](Mundo%203/d94.py) | Cadastro de pessoas com estatísticas (mulheres, acima da média) usando dicionários |
+| [`d95.py`](Mundo%203/d95.py) | Lista de jogadores com dicionários e `.copy()` para evitar bug de referência |
+| [`d96.py`](Mundo%203/d96.py) | Cálculo de área de terreno usando funções (`def`) |
+| [`d97.py`](Mundo%203/d97.py) | Função `escreva()` com tamanho adaptável usando `~` |
+| [`d98.py`](Mundo%203/d98.py) | Função `contador()` com início, fim, passo e contagem personalizada |
+| [`d99.py`](Mundo%203/d99.py) | Função `maior()` com `*args` para receber múltiplos valores |
+| [`d100.py`](Mundo%203/d100.py) | Sorteio de números sem repetição com `random.sample` e soma dos pares |
+| [`d101.py`](Mundo%203/d101.py) | Verificador de aptidão para votar usando `datetime` e funções |
+| [`d102.py`](Mundo%203/d102.py) | Função `fatorial()` com parâmetro `show` para exibir a conta passo a passo |
+| [`d103.py`](Mundo%203/d103.py) | Função `ficha()` com parâmetros opcionais e tratamento de campos vazios |
+| [`d104.py`](Mundo%203/d104.py) | Função `leiaInt()` com validação via `isnumeric()` |
+| [`d105.py`](Mundo%203/d105.py) | Função `notas()` com `*args` retornando dicionário com estatísticas da turma |
+| [`d106.py`](Mundo%203/d106.py) | Sistema de ajuda interativo (PyHELP) com `help()` e cores ANSI |
+| [`d107/`](Mundo%203/d107) | Módulo `funcoes.py` com `metade`, `dobro`, `aumentar`, `diminuir`, `moeda` |
+| [`d108/`](Mundo%203/d108) | Módulo `funcoes.py` + parâmetro `fmt` para formatar saída com `moeda()` |
+| [`d109/`](Mundo%203/d109) | Adição de função `resumo()` ao módulo de funções financeiras |
+| [`d110/`](Mundo%203/d110) | Refatoração com `aum` e `red` como parâmetros de percentual |
+| [`d111/`](Mundo%203/d111) | Pacote `utilidadescev` com submódulo `funcoes` |
+| [`d112/`](Mundo%203/d112) | Pacote com `funcoes` e `dado` (inclui `leiadinheiro()` com validação) |
+| [`d113.py`](Mundo%203/d113.py) | `leiaInt()` e `leiaReal()` com `try/except` em loop |
+| [`d114.py`](Mundo%203/d114.py) | Verificador de acesso ao site Pudim com `urllib.request` |
+| [`d115/`](Mundo%203/d115) | Sistema de cadastro com menu, leitura e escrita em arquivo `.txt` |
+| [`d115 - resolucao/`](Mundo%203/d115%20-%20resolucao) | Resolução do professor para o d115 — estrutura com pacote `ex115.lib` |
 
 ## Sobre os comentários no código
 
